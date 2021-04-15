@@ -1,6 +1,7 @@
 
 # 项目入口
-#hello world
+#hello worlu
+#女孩王
 from view import View
 from bank import Bank
 
